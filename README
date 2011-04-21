@@ -1,6 +1,6 @@
-I just uploaded this for review now -- it is missing some dependencies for getting it working. In the near future get the complete project up. 
+I just uploaded this for review now -- it is missing some dependencies for getting it working. In the near future I'll get the complete project up. 
 
-In a nutshell this program written in java provides a graphical environment as an alternative to scripting Qlikview applications. I have used this with success to build prototypes in minutes, debug large applications, and build complete applications as this incorporates alot of the functionality of Qliktech's scripting language.
+In a nutshell this program (written in java (my first large java/OO program)) provides a graphical environment as an alternative to scripting Qlikview applications. I have used this with success to build prototypes in minutes, debug large applications, and build complete applications as this incorporates alot of the functionality of Qliktech's scripting language.
 
 
 ----
