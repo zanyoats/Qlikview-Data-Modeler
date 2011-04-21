@@ -1,0 +1,27 @@
+I just uploaded this for review now -- it is missing some dependencies for getting it working. In the near future get the complete project up. 
+
+In a nutshell this program written in java provides a graphical environment as an alternative to scripting Qlikview applications. I have used this with success to build prototypes in minutes, debug large applications, and build complete applications as this incorporates alot of the functionality of Qliktech's scripting language.
+
+
+----
+Please follow these instructions:
+
+(1) Install IntelliJ Community Ed.
+    http://www.jetbrains.com/idea/download/index.html
+
+(2) Open the project in IntelliJ: point to folder "QlikTechDataModeler"
+
+(3) (a) Select project structure and point it to your Java SDK
+    (b) Download XMLSerialize library and add the "lib" libray to the project
+        http://xstream.codehaus.org/download.html , then select Binary Distribution link
+
+(4) Set the database.properties file
+    (a) Set the database driver used (Example has an oracle driver)
+    (b) Set the JDBC url (Example uses a server using oracle)
+    (c) Set the username
+    (d) Set the password
+    (e) Set the name for the tables from the query below (g)
+    (f) Set the name for the columns from the query below (g)
+    (g) Set the query to pull the tables and columns for your environment
+
+(5) Launch is the main class for running the project. You are now ready to run the program.
